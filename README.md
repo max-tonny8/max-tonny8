@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 <br>-->
-# <div align="center">🟣 Tony Jansen DK 💻 🪂🟣 
+# <div align="center">🟣 Tony Jansen DK 💻 🪂🟣 </div>
   <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" height="300px" align= "center" />
-</div>
+
 
 ---
 
@@ -12,8 +12,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Tonny;Full-Stack+Developer;Welcome+to+my+page!;DK+💻+🪂&center=true&size=30&color=754EF9">
   </a>
 </h1>
-
----
 
 ## <div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> Frontend and Blockchain Developer <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"></div>
 ## <div align="center"><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Aabenraa, Denmark</div>
