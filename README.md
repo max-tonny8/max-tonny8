@@ -113,7 +113,7 @@
  [![website](https://img.shields.io/badge/website-informational)](https://alexnesvit.github.io/Personal-Card/)
  ![GitHub last commit](https://img.shields.io/github/last-commit/AlexNesvit/AlexNesvit)
  <img src="https://img.shields.io/github/stars/AlexNesvit?style=flat&logo=github" alt="Stars"/>
- <!-- [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=XJzFNiSS-AI) -->
+ <!-- [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=XJzFNiSS-AI)git  -->
  ![GitHub followers](https://img.shields.io/github/followers/AlexNesvit?style=flat&logo=github)
  ![status](https://img.shields.io/badge/status-up-brightgreen)
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlexNesvit)
