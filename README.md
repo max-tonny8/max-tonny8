@@ -2,7 +2,7 @@
 <!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 <br>-->
 # <div align="center">🟣 Tony Jansen DK 💻 🪂🟣 
-  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
+  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="100%" height="200px" align= "right" />
 </div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
