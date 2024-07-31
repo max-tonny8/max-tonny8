@@ -3,8 +3,7 @@
 <br>-->
 # <div align="center">🟣 Tony Jansen DK 💻 🪂🟣 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Mehmet&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=000000&size=24" alt="Example Usage - README Typing SVG" style="display: inline-block; vertical-align: middle;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7%" style="display: inline-block; vertical-align: middle;">
+    <img src="https://profile-counter.glitch.me/{MehmetPolat20}/count.svg" style="width: 300px; height: auto;" />
 </div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
