@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 <br>-->
-# <div align="center">🟣 Tony Jansen 🇺🇦 🇫🇷 💻 🪂🟣 </div>
+# <div align="center">🟣 Tony Jansen DK 💻 🪂🟣 </div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Alex;Full-Stack+Developer;Welcome+to+my+page!;🇺🇦+🇫🇷+💻+🪂&center=true&size=30&color=754EF9">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Tonny;Full-Stack+Developer;Welcome+to+my+page!;DK+💻+🪂&center=true&size=30&color=754EF9">
   </a>
 </h1>
 
@@ -21,7 +21,7 @@
 </div>
 
  ---
-### Holding a Master's degree in Business Economics 🎓 and a Professional Certificate in Web Development Full-Stack🏆, I am deeply passionate about programming 💻. Beyond the realm of coding 👨🏻‍💻, I also enjoy various sports activities such as [skydiving 🪂](https://youtu.be/sqqgCOtTZSM?si=57QVnAlf-MqfBaXK) and running 🏃🏻‍♂️. Another one of my hobbies is capturing the beauty of nature through drone filming 📹, and I love the post-production editing process [look my video here](https://www.youtube.com/watch?v=XJzFNiSS-AI). My passion lies in creating engaging and dynamic web projects. Welcome to my page and thank you for your support!
+### Holding a Master's degree in Business Economics 🎓 and a Professional Certificate in Web Development Full-Stack🏆, I am deeply passionate about programming 💻. Beyond the realm of coding 👨🏻‍💻, I also enjoy various sports activities such as [skydiving 🪂] and running 🏃🏻‍♂️. Another one of my hobbies is capturing the beauty of nature through drone filming 📹, and I love the post-production editing process [look my video here]. My passion lies in creating engaging and dynamic web projects. Welcome to my page and thank you for your support!
 <!--### Titulaire d'un Master en Économie d'entreprises et Diplômé du "Titre professionnel de Développeur Web" avec un niveau Bac +2, je suis passionné par la programmation. En dehors du monde du code, j'apprécie également diverses activités sportives telles que le parachutisme et la course à pied. Un autre de mes passe-temps est de capturer la beauté de la nature en filmant avec un drone, et j'adore réaliser [le montage par la suite voir ici](https://www.youtube.com/watch?v=XJzFNiSS-AI). J'ai hâte de mettre mes compétences et de m'investir au service d'une entreprise qui offrira de belles perspectives de carrière. Ma passion réside dans la réalisation de projets web captivants et dynamiques. -->
 
 <p align="center">
