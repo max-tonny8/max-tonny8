@@ -107,7 +107,7 @@
 
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=f0f000)](https://open.spotify.com/user/omnitenebris)
 </div>
 
 <!--<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
@@ -118,7 +118,6 @@
  <!-- [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=XJzFNiSS-AI)git  -->
  ![GitHub followers](https://img.shields.io/github/followers/tonny0831?style=flat&logo=github)
  ![status](https://img.shields.io/badge/status-up-brightgreen)
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tonny0831)
 </div>
 
 
