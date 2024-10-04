@@ -73,7 +73,7 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="Github"/>
     </a>
     <a href="https://www.x.com/max_tonny8" target="_blank">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x-dark.svg" width="40" height="40" alt="Github"/>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="40" height="40" alt="Github"/>
     </a>
     <!-- <a href="https://www.linkedin.com/in/alexnesvit" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
