@@ -9,12 +9,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Tonny;Full-Stack+Developer;Welcome+to+my+page!;DK+💻+🪂&center=true&size=30&color=754EF9">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Tonny;Full+Stack+and+Blockchain+Developer;Welcome+to+my+page!;DK+💻+🪂&center=true&size=30&color=754EF9">
   </a>
 </h1>
 
 ## <div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> Full Stack and Blockchain Developer <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"></div>
-## <div align="center"><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Aabenraa, Denmark</div>
+## <div align="center"><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Nørager, Denmark</div>
 
 ### I am a dedicated Ordinals, Rune and Full Stack Developer with a strong interest in blockchain technologies, specifically within the Web3 ecosystem. My expertise spans across both front-end and back-end development, enabling me to build comprehensive, scalable solutions. I am particularly focused on emerging decentralized protocols such as Ordinals and Rune, which are pushing the boundaries of digital asset innovation and decentralized finance (DeFi). I am deeply committed to leveraging my technical skills to contribute to the advancement of Web3, ensuring a more decentralized, user-empowered internet that aligns with the future of digital assets and decentralized applications.
 
