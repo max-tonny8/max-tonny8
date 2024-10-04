@@ -16,13 +16,6 @@
 ## <div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> Frontend and Blockchain Developer <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"></div>
 ## <div align="center"><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Aabenraa, Denmark</div>
 
-
-## <div align="center">☕ Support Me
-<p>
-<div align="center"><a href="https://www.buymeacoffee.com/alexnesvit" target="_blanc"><img alt="Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a></div>
-</p>
-</div>
-
  ---
 ### I am a dedicated Ordinals, Rune and Full Stack Developer with a strong interest in blockchain technologies, specifically within the Web3 ecosystem. My expertise spans across both front-end and back-end development, enabling me to build comprehensive, scalable solutions. I am particularly focused on emerging decentralized protocols such as Ordinals and Rune, which are pushing the boundaries of digital asset innovation and decentralized finance (DeFi). I am deeply committed to leveraging my technical skills to contribute to the advancement of Web3, ensuring a more decentralized, user-empowered internet that aligns with the future of digital assets and decentralized applications.
 
