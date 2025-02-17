@@ -34,7 +34,6 @@
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="40" />&nbsp;
  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />&nbsp;
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="45" height="40" alt="PHP" />&nbsp;
- <!--<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" />&nbsp;-->
  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />&nbsp;
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />&nbsp;
  <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />&nbsp;
@@ -59,7 +58,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="45" height="45"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="45" height="45"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
- <!--<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;-->
  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="ftrello" alt="trello" width="45" height="45"/>&nbsp;
 </div>
 
@@ -75,12 +73,6 @@
     <a href="https://www.x.com/max_tonny8" target="_blank">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="40" height="40" alt="Github"/>
     </a>
-    <!-- <a href="https://www.linkedin.com/in/alexnesvit" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://www.youtube.com/@MetlaAlex" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a> -->
   </div>
 
 ---
@@ -104,12 +96,9 @@
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=f0f000)](https://open.spotify.com/user/omnitenebris)
 </div>
 
-<!--<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
--->
 &nbsp;<div align="center">
  ![GitHub last commit](https://img.shields.io/github/last-commit/tonny0831/tonny0831)
  <img src="https://img.shields.io/github/stars/tonny0831?style=flat&logo=github" alt="Stars"/>
- <!-- [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=XJzFNiSS-AI)git  -->
  ![GitHub followers](https://img.shields.io/github/followers/tonny0831?style=flat&logo=github)
  ![status](https://img.shields.io/badge/status-up-brightgreen)
 </div>
