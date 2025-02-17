@@ -82,10 +82,7 @@
 
 <div align="center">
   <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNesvit&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
-
-&nbsp;<div align="center">
+&nbsp;
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=f0f000)](https://open.spotify.com/user/omnitenebris)
 </div>
 
